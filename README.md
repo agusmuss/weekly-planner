@@ -35,7 +35,6 @@ npm run preview
 ```
 
 ## Possible Improvements
-- Drag & drop reordering
-- Keyboard shortcuts
-- Optional cloud sync
-- Better analytics per week
+- Drag & drop task reordering
+- Due dates and reminders
+- CSV export/import
